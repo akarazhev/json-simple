@@ -6,7 +6,7 @@
     <name>JSON.simple</name>
     <description>Fork of the Java Toolkit (JSON.simple) that adopted to Java 14+.</description>
     <url>http://akarazhev.github.io/json-simple/</url>
-    <version>1.0</version>
+    <version>1.1</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.plugin>3.8.1</maven.compiler.plugin>
