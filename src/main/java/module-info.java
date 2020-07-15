@@ -1,2 +1,2 @@
-module com.github.cliftonlabs.json_simple {
+open module com.github.cliftonlabs.json_simple {
 }
